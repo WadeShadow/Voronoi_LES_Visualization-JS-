@@ -1,0 +1,19 @@
+{
+  "name": "voronoi-diagrams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "game-shell-orbit-camera": "^1.0.0",
+    "gl-axes": "^6.0.2",
+    "gl-matrix": "^3.0.0",
+    "gl-now": "^1.4.0",
+    "gl-simplicial-complex": "^3.0.4",
+    "voronoi-diagram": "^1.0.1"
+  }
+}
